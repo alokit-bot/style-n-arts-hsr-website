@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/style-n-arts-hsr-website/static/css/main.74947fb5.css",
+    "main.js": "/style-n-arts-hsr-website/static/js/main.1718d28c.js",
+    "index.html": "/style-n-arts-hsr-website/index.html",
+    "main.74947fb5.css.map": "/style-n-arts-hsr-website/static/css/main.74947fb5.css.map",
+    "main.1718d28c.js.map": "/style-n-arts-hsr-website/static/js/main.1718d28c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74947fb5.css",
+    "static/js/main.1718d28c.js"
+  ]
+}
